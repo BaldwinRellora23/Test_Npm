@@ -74,7 +74,6 @@ namespace game_app_api_repository.Controllers
             catch (Exception e)
             {
                 return BadRequest(e.ToString());
-
             }
         }
     }

@@ -1,0 +1,36 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/login"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/lifeplan"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/Home"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/NsQuota"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/NsPassFailed"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/NsQuotaCollection"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/NsClassification"
+    }
+  ]
+}
