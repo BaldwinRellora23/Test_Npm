@@ -1,0 +1,158 @@
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.csproj.AssemblyReference.cache
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.AssemblyInfoInputs.cache
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.AssemblyInfo.cs
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.csproj.CoreCompileInputs.cache
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\appsettings.json
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\game-app-api-repository.exe
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\game-app-api-repository.deps.json
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\game-app-api-repository.runtimeconfig.json
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\game-app-api-repository.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\game-app-api-repository.pdb
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\staticwebassets\msbuild.game-app-api-repository.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\staticwebassets\msbuild.build.game-app-api-repository.props
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.game-app-api-repository.props
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.game-app-api-repository.props
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\scopedcss\bundle\game-app-api-repository.styles.css
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.csproj.CopyComplete
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\refint\game-app-api-repository.dll
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.pdb
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.genruntimeconfig.cache
+C:\Users\David Abuel\source\repos\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\ref\game-app-api-repository.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\appsettings.json
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\game-app-api-repository.exe
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\game-app-api-repository.deps.json
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\game-app-api-repository.runtimeconfig.json
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\game-app-api-repository.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\game-app-api-repository.pdb
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.csproj.AssemblyReference.cache
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.AssemblyInfoInputs.cache
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.AssemblyInfo.cs
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.csproj.CoreCompileInputs.cache
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\staticwebassets\msbuild.game-app-api-repository.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\staticwebassets\msbuild.build.game-app-api-repository.props
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.game-app-api-repository.props
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.game-app-api-repository.props
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\scopedcss\bundle\game-app-api-repository.styles.css
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.csproj.CopyComplete
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\refint\game-app-api-repository.dll
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.pdb
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\game-app-api-repository.genruntimeconfig.cache
+C:\Users\Baldwin_itd\Documents\GitHub\REACT-PART2\game-app-api-repository\game-app-api-repository\obj\Debug\net6.0\ref\game-app-api-repository.dll
