@@ -1,4 +1,4 @@
-interface test {
+export interface test {
   Name: string;
   Age: number;
 }
