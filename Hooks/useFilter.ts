@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { QueryClient, useQuery } from "@tanstack/react-query";
 import { fetchFilters } from "../Service/GenericService";
+import { queryClient } from "../queryClient";
 
 export interface IFilter {
   territoryCode: string;
@@ -9,14 +10,6 @@ export interface IFilter {
   description: string;
 }
 
-let queryClient: QueryClient | null = null;
-
-export const getQueryClient = (): QueryClient => {
-  if (!queryClient) {
-    queryClient = new QueryClient();
-  }
-  return queryClient;
-};
 export const useFilter = () => {
   const [isPassedQryEnabled, SetIsPassedQryEnabled] = useState<boolean>(false);
   const [response, setResponse] = useState("");
