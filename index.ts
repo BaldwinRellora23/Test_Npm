@@ -9,4 +9,6 @@ export const logMessage = (entity: test) => {
   console.log("Name: " + entity.Name + " ,Age : " + entity.Age);
 };
 
-export { useFilter };
+const { data } = useFilter();
+
+export { data };
