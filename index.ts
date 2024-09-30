@@ -12,5 +12,5 @@ export const logMessage = (entity: test) => {
 export const TestFetch = () => {
   const { data } = useFilter();
 
-  return data;
+  return data ?? [];
 };
