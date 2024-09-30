@@ -1,4 +1,6 @@
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { useFilter } from "./Hooks/useFilter";
+import ReactDOM from "react-dom";
 
 export interface test {
   Name: string;
