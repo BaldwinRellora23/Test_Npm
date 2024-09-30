@@ -8,3 +8,5 @@ export interface test {
 export const logMessage = (entity: test) => {
   console.log("Name: " + entity.Name + " ,Age : " + entity.Age);
 };
+
+export const test = useFilter();
