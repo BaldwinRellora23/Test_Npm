@@ -9,23 +9,25 @@ export interface IFilter {
   branchCode: string;
   description: string;
 }
+export default class filterUse {
+  useFilter = () => {
+    const [isPassedQryEnabled, SetIsPassedQryEnabled] =
+      useState<boolean>(false);
+    const [response, setResponse] = useState("");
+    const [errorResponse, setErrorResponse] = useState("");
 
-export const useFilter = () => {
-  const [isPassedQryEnabled, SetIsPassedQryEnabled] = useState<boolean>(false);
-  const [response, setResponse] = useState("");
-  const [errorResponse, setErrorResponse] = useState("");
+    const { isLoading, data } = useQuery<IFilter[], Error>(
+      {
+        queryKey: ["FiltersData"],
+        queryFn: () => fetchFilters<IFilter>().getAll(),
+        refetchOnWindowFocus: false,
+        retry: 0,
+        staleTime: 24 * 60 * 1000,
+        // onError: (error: Error) => setErrorResponse(useReponse(error)),
+      },
+      queryClient
+    );
 
-  const { isLoading, data } = useQuery<IFilter[], Error>(
-    {
-      queryKey: ["FiltersData"],
-      queryFn: () => fetchFilters<IFilter>().getAll(),
-      refetchOnWindowFocus: false,
-      retry: 0,
-      staleTime: 24 * 60 * 1000,
-      // onError: (error: Error) => setErrorResponse(useReponse(error)),
-    },
-    queryClient
-  );
-
-  return { data, isLoading, SetIsPassedQryEnabled };
-};
+    return { data, isLoading, SetIsPassedQryEnabled };
+  };
+}
