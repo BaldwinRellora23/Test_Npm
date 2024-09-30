@@ -15,14 +15,17 @@ export const useFilter = () => {
   const [response, setResponse] = useState("");
   const [errorResponse, setErrorResponse] = useState("");
 
-  const { isLoading, data } = useQuery<IFilter[], Error>({
-    queryKey: ["FiltersData"],
-    queryFn: () => fetchFilters<IFilter>().getAll(),
-    refetchOnWindowFocus: false,
-    retry: 0,
-    staleTime: 24 * 60 * 1000,
-    // onError: (error: Error) => setErrorResponse(useReponse(error)),
-  });
+  const { isLoading, data } = useQuery<IFilter[], Error>(
+    {
+      queryKey: ["FiltersData"],
+      queryFn: () => fetchFilters<IFilter>().getAll(),
+      refetchOnWindowFocus: false,
+      retry: 0,
+      staleTime: 24 * 60 * 1000,
+      // onError: (error: Error) => setErrorResponse(useReponse(error)),
+    },
+    queryClient
+  );
 
   return { data, isLoading, SetIsPassedQryEnabled };
 };
