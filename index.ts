@@ -2,6 +2,7 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 // import { filterUse } from "./Hooks/useFilter";
 import ReactDOM from "react-dom";
 import filterUse from "./Hooks/useFilter";
+import useLogin from "./Hooks/useLogin";
 
 export interface test {
   Name: string;
@@ -13,4 +14,6 @@ export const logMessage = (entity: test) => {
 };
 
 const filter = new filterUse();
-export { filter };
+const useLoginClass = new useLogin();
+
+export { filter, useLoginClass };

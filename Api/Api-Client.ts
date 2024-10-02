@@ -21,13 +21,13 @@ class APIClient<T> {
     this.endpoint = endpoint;
   }
 
-  // FOR REPORT BUILDER
-
   getAll = () => {
     return axiosInstance.get<T[]>(this.endpoint).then((res) => res.data);
   };
 
-  //#endregion
+  AuthLogin = (entity: { email: string; password: string }) => {
+    return axiosInstance.post(this.endpoint, entity).then((res) => res.data);
+  };
 }
 
 export default APIClient;

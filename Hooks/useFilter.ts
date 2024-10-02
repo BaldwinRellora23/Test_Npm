@@ -9,6 +9,7 @@ export interface IFilter {
   branchCode: string;
   description: string;
 }
+
 export default class filterUse {
   useFilter = () => {
     const [isPassedQryEnabled, SetIsPassedQryEnabled] =
