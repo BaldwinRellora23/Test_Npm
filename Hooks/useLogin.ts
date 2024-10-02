@@ -1,6 +1,7 @@
 import { useMutation } from "@tanstack/react-query";
 import { useState } from "react";
 import { AuthLoginService } from "../Service/LoginService";
+import { queryClient } from "../queryClient";
 
 interface IUser {
   fullName: string;
@@ -25,10 +26,13 @@ export default class useLogin {
       IUser,
       Error,
       ILoginParam
-    >({
-      mutationFn: (employee: ILoginParam) =>
-        AuthLoginService().AuthLogin(employee),
-    });
+    >(
+      {
+        mutationFn: (employee: ILoginParam) =>
+          AuthLoginService().AuthLogin(employee),
+      },
+      queryClient
+    );
     return {
       data,
       mutate,
