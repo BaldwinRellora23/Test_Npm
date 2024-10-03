@@ -3,7 +3,9 @@ import axios from "axios";
 const axiosInstance = axios.create({
   //#region LOCALHOST API
 
-  baseURL: "https://localhost:7249/api/",
+  // baseURL: "https://localhost:7249/api/",
+
+  baseURL: "https://hris.stpeter.com.ph:5102/api",
 
   params: {
     key: "b07131600ee34def946ad3228a9a8af4",
