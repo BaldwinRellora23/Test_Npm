@@ -2,6 +2,7 @@ import { useMutation } from "@tanstack/react-query";
 import { useState } from "react";
 import { AuthLoginService } from "../Service/LoginService";
 import { queryClient } from "../queryClient";
+import { encryptData } from "../GenericFunctions/GenericFunction";
 
 interface IUser {
   fullName: string;
@@ -28,8 +29,11 @@ export default class useLogin {
       ILoginParam
     >(
       {
-        mutationFn: (employee: ILoginParam) =>
-          AuthLoginService().AuthLogin(employee),
+        mutationFn: (entity: ILoginParam) =>
+          AuthLoginService().AuthLogin({
+            email: encryptData(entity.email),
+            password: encryptData(entity.password),
+          }),
       },
       queryClient
     );
