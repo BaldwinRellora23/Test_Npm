@@ -31,8 +31,8 @@ export default class useLogin {
       {
         mutationFn: (entity: ILoginParam) =>
           AuthLoginService().AuthLogin({
-            email: encryptData(entity.email),
-            password: encryptData(entity.password),
+            email: entity.email,
+            password: entity.password,
           }),
       },
       queryClient
